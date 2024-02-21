@@ -11,7 +11,7 @@ count plots, scatter plots, heatmaps, and cluster maps. Gained valuable insights
 <br>
 ### Python Libraries Used : 
 <br>
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
+* Numpy<br>
+* Pandas<br>
+* Matplotlib<br>
+* Seaborn<br>
